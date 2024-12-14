@@ -229,3 +229,7 @@ img {
         width: 40%;
     }
 }
+
+iframe {
+    margin-bottom: 27px;
+}
